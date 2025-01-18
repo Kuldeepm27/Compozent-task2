@@ -69,3 +69,4 @@ function clearForm() {
     document.getElementById('task-desc').value = '';
 }
 fetchTasks();
+
